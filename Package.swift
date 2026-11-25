@@ -52,19 +52,19 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/leviouwendijk/Arguments.git",
+            url: "https://github.com/swift-lco/Arguments.git",
             branch: "master"
         ),
         .package(
-            url: "https://github.com/leviouwendijk/Terminal.git",
+            url: "https://github.com/swift-lco/Terminal.git",
             branch: "master"
         ),
         .package(
-            url: "https://github.com/leviouwendijk/Path.git",
+            url: "https://github.com/swift-lco/Path.git",
             branch: "master"
         ),
         .package(
-            url: "https://github.com/leviouwendijk/FileTypes.git",
+            url: "https://github.com/swift-lco/FileTypes.git",
             branch: "master"
         ),
     ],
